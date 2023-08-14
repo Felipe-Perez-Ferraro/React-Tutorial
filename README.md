@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 
   cd my-folder
   
-  git clone https://github.com/Feliperto/React-Tutorial.git
+  git clone https://github.com/felipe-perez-ferraro/react-tutorial
   
 
 ### Prerequisites
