@@ -49,7 +49,7 @@
 
 
 - **Informative**
-- **Beautyfull**
+- **Beautifull**
 - **Easy to read**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,7 +155,7 @@ If you like this project please share with your friends and family!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for teach me and support me to do this
+Thank Microverse for teaching me and supporting me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
